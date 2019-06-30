@@ -2,7 +2,8 @@
 def meal_choice(veg1, veg2, protein = "meat")
   puts "What a nutritious meal!"
   puts "A plate of #{protein} with #{veg1} and #{veg2}."
-  veg2 = "broccoli", "macaroni", "tofu"
-  veg1 = "broccoli", "macaroni"
-  protein = "meat"
+  veg2 = "broccoli"
+  veg1 = "macaroni"
+  protein = "tofu"
 end
+

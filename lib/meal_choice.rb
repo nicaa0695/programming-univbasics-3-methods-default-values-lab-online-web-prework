@@ -6,9 +6,3 @@ def meal_choice(veg1, veg2, protein = "meat")
   veg1 = "broccoli", "macaroni"
   protein = "meat"
 end
-class meal
-  attr_reader :choice
-  
-  def initialize(choice= "meat")
-    @choice = choice
-  end

@@ -5,6 +5,6 @@ def meal_choice(veg1, veg2, protein = "meat")
   veg1 = "A plate of meat with broccoli and macaroni."
   veg2 = "A plate of tofu with broccoli and macaroni."
 end
-def meal_choice(meal="meat")
+def meal_choice(meal = "meat")
   return meal
 end

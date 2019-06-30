@@ -4,5 +4,4 @@ def meal_choice(veg1, veg2, protein = "meat")
   puts "A plate of #{protein} with #{veg1} and #{veg2}."
   veg2 = "broccoli", "macaroni", "tofu"
   veg1 = "broccoli", "macaroni"
-  protein = "meat"
 end
